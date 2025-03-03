@@ -1,0 +1,14 @@
+body {
+    background-color:rgba(226, 182, 255, 0.719);
+    font-family:Arial, sans-serif;
+    text-align:center;
+}
+
+h1 {
+    color:rgb(18, 19, 17);   
+}
+
+p{
+    font-size:18px;
+    color:mediumslateblue;
+}
